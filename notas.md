@@ -1,1 +1,0 @@
-Me gustaría construir una herramienta que automatice tareas repetitivas de mi día a día como programador.
